@@ -1,0 +1,15 @@
+{
+	"realease":{
+	"major":1,
+	"minor":0,
+	"patch":0, 
+	"link":"https://longhirar.github.io/app-update-check/dl/auc-test-realease-1-0-0.zip"
+	},
+	
+	"beta":{
+	"major":1,
+	"minor":0,
+	"patch":0, 
+	"link":"https://longhirar.github.io/app-update-check/dl/auc-test-beta-1-0-0.zip"
+	}
+}
